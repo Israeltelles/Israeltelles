@@ -21,7 +21,7 @@
 * 🧠 Inteligência Artificial
 * 📊 Análise de Dados
 * 🔬 Ciência de Dados
-* 📚 Sou apaixonado por livros de fantasia, 🎮 adoro jogos eletrônicos, e tenho grande interesse em história, especialmente nas tecnologias da marinha da Segunda Guerra Mundial.
+* 📚 Sou apaixonado por livros de fantasia, 🎮 adoro jogos eletrônicos e tenho grande interesse em história e seus mistérios.
 
 * ✨ Acredito que nossos interesses moldam nossas perspectivas e nos proporcionam uma visão mais ampla para resolver problemas.
 </details>
