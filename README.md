@@ -1,28 +1,28 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Olá mundo</h1></summary>
 </div>
 
 <!-- Presentation -->
 <p>
- 👋 Olá, sou Israel, estudante de Tecnologia da Informação.
+ 🖖 Olá, sou Israel, estudante de Tecnologia da Informação.
 
-* 🌱 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
-* 🔭 Busco minha primeira oportunidade para ingressar no mercado de TI.
+* 👾 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
+* 👓 Busco minha primeira oportunidade para ingressar no mercado de TI.
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary> Mais sobre mim</summary>
 
  * 💻 Tenho 23 anos, moro no Brasil, e estou iniciando minha jornada no mundo da Tecnologia da Informação. Minha ênfase está no estudo de:
 
 * 🧠 Inteligência Artificial
 * 📊 Análise de Dados
 * 🔬 Ciência de Dados
-* Analise de Sistemas
-* 📚 Sou apaixonado por livros de fantasia, 🎮 adoro jogos eletrônicos e tenho grande interesse em história e seus mistérios.
+* 🔍 Analise de Sistemas
+* 📚 Sou apaixonado por livros de fantasia, 🎮 adoro jogos eletrônicos e 📜 tenho grande interesse em história e seus mistérios.
 
 * ✨ Acredito que nossos interesses moldam nossas perspectivas e nos proporcionam uma visão mais ampla para resolver problemas.
 </details>
