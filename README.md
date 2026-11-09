@@ -47,7 +47,10 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Projeto ETL](https://github.com/Israeltelles/projetoETL)
+- [Análise e previsão de ações - Ibovespa]([https://github.com/Israeltelles/projetoETL](https://github.com/Israeltelles/ibovespa-ml-analysis))
+- [Sistema de Gestão de Eventos][(https://github.com/Israeltelles/projetoETL)](https://github.com/Israeltelles/SistemaEventos)
+- [Mutation Hunter]([https://github.com/Israeltelles/projetoETL](https://github.com/Israeltelles/Mutation-Hunter))
+  
 
 <!-- GIF -->
 <p align="left">
